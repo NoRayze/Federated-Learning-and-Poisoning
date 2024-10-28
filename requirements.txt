@@ -2,3 +2,5 @@ streamlit
 torch
 numpy
 scikit-learn
+matplotlib
+seaborn
